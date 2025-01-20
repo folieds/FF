@@ -1,6 +1,6 @@
 <?php
 // Define the bot token
-$bot_token = '7272929349:AAH5UsjWwpzOnv3XrsAXEdyjQN0AByKD_WY';
+$bot_token = '7272929349:AAHtCmANzRxrzX6LNQBvwV12HdZbjH2_Cj4';
 $api_url = "https://api.telegram.org/bot$bot_token/";
 
 // Get the update from Telegram
